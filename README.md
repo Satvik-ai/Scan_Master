@@ -18,9 +18,9 @@ $ pip install virtualenv
 $ virtualenv env
 ```
 
-3. Then run the command:
+3. Then run the following command (for windows):
 ```
-$ source env/bin/activate
+$ .\env\Scripts\activate
 ```
 
 4. Then install the dependencies:
