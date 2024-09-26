@@ -23,12 +23,17 @@ $ virtualenv env
 $ .\env\Scripts\activate
 ```
 
-4. Then install the dependencies:
+4. Install Torch with Cuda enabled:
+```
+$ (env) pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+5. Then install the other dependencies:
 ```
 $ (env) pip install -r requirements.txt
 ```
 
-5. Finally start the application:
+6. Finally start the application:
 ```
 $ (env) python app.py
 ```
