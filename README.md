@@ -1,4 +1,4 @@
-### Scan Master
+## Scan Master
 
 Scan Master is an optical character recognition tool. It can extract English and Hindi text from the uploaded image. It uses General OCR Theory (GOT), a 580M end-to-end OCR 2.0 model for English optical character recognition and EASYOCR for Hindi optical character recognition. It supports plain text ocr.
 
