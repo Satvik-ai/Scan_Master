@@ -25,7 +25,7 @@ $ .\env\Scripts\activate
 
 4. Install Torch with Cuda enabled:
 ```
-$ (env) pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+$ (env) pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 ```
 
 5. Then install the other dependencies:
