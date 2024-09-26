@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+megfile
+tiktoken
+verovio
+opencv-python
+accelerate
+numpy
+shutils
+pillow
+gradio
+spaces
+easyocr
