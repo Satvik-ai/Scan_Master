@@ -40,7 +40,7 @@ $ (env) python app.py
 
 ### Live web application
 You can also access the live application from the below link:
-[Click here]()
+[Click here](https://huggingface.co/spaces/Satvik-ai/Scan_Master)
 
 ### Acknowledgement
 [😊 Hugging Face](https://huggingface.co/ucaslcl/GOT-OCR2_0) | [📜 Paper](https://arxiv.org/abs/2409.01704) | [🌟 GitHub](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/)
