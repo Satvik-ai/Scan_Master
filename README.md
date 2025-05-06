@@ -1,10 +1,28 @@
-## Scan Master
+# 🖨️ Scan Master
 
-Scan Master is an optical character recognition tool. It can extract English and Hindi text from the uploaded image. It uses General OCR Theory (GOT), a 580M end-to-end OCR 2.0 model for English optical character recognition and EASYOCR for Hindi optical character recognition. It supports plain text ocr.
+**Scan Master** is an optical character recognition (OCR) tool capable of extracting both **English** and **Hindi** text from uploaded images. It supports plain text extraction and includes a **search** functionality that lets users look for specific keywords within the extracted content.
 
-It also has a search functionality. User can enter keyword to search within extracted text.
+---
 
-### How to run locally
+## 🧠 Technologies & Models
+
+- **English OCR**: [GOT (General OCR Theory)](https://arxiv.org/abs/2409.01704) – a 580M parameter end-to-end OCR 2.0 model.
+- **Hindi OCR**: [EasyOCR](https://www.jaided.ai/easyocr/) – a multilingual OCR library.
+- **Framework**: Flask (Python)
+- **Search Capability**: Keyword search on extracted text.
+
+---
+
+## 🚀 Features
+
+- Upload image and extract English or Hindi text.
+- Plain text OCR support.
+- Keyword-based search within extracted results.
+- Lightweight and easy to deploy locally or via web.
+
+---
+
+## 💻 How to Run Locally
 
 Open a terminal in the project root directory and run the following commands
 
